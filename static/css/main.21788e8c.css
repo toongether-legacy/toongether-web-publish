@@ -1,0 +1,145 @@
+@font-face {
+  font-family: PyeongChangPeace-Bold;
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-02@1.0/PyeongChangPeace-Bold.woff2)
+    format("woff2");
+}
+@font-face {
+  font-family: PyeongChangPeace-Light;
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-02@1.0/PyeongChangPeace-Light.woff2)
+    format("woff2");
+}
+@font-face {
+  font-family: Tenada;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2210-2@1.0/Tenada.woff2)
+    format("woff2");
+}
+@font-face {
+  font-family: insungitCutelivelyjisu;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/insungitCutelivelyjisu.woff2)
+    format("woff2");
+}
+@font-face {
+  font-family: SF_HambakSnow;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/SF_HambakSnow.woff)
+    format("woff");
+}
+@font-face {
+  font-family: Cafe24Ohsquare;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/Cafe24Ohsquare.woff)
+    format("woff");
+}
+@font-face {
+  font-family: HSBombaram;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/HSBombaram.woff)
+    format("woff");
+}
+.test {
+  background-color: #3e86f7;
+  color: #fff;
+  justify-content: center;
+  min-height: 100vh;
+  overflow: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.box,
+.test {
+  align-items: center;
+  display: flex;
+}
+.box {
+  -webkit-filter: drop-shadow(0 0.5vmin 0 #3253d7);
+  filter: drop-shadow(0 0.5vmin 0 #3253d7);
+  flex-direction: row;
+  left: 10vmin;
+  position: relative;
+}
+.titlebox {
+  display: flex;
+  gap: 0.8vmin;
+}
+.textbox {
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  width: 15vmin;
+}
+.subtitle,
+.title {
+  position: relative;
+}
+.subtitle {
+  width: 29vmin;
+}
+.image {
+  left: -13vmin;
+  position: relative;
+  width: 50vmin;
+}
+.animate {
+  animation-duration: 1s;
+  -webkit-animation-duration: 1s;
+  animation-fill-mode: backwards;
+  -webkit-animation-fill-mode: backwards;
+  animation-name: animate;
+  -webkit-animation-name: animate;
+}
+.animate.t0 {
+  -webkit-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+}
+.animate.t1 {
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+.animate.t2 {
+  -webkit-animation-delay: 0.6s;
+  animation-delay: 0.6s;
+}
+.animate.t3 {
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+}
+.animate.t4 {
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+@-webkit-keyframes animate {
+  0% {
+    opacity: 0;
+    top: 5vmin;
+  }
+  to {
+    opacity: 1;
+    top: 0;
+  }
+}
+@keyframes animate {
+  0% {
+    opacity: 0;
+    top: 5vmin;
+  }
+  to {
+    opacity: 1;
+    top: 0;
+  }
+}
+body {
+  margin: 0;
+}
+/*# sourceMappingURL=main.21788e8c.css.map*/
