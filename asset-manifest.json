@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.df0b456a.js",
+    "main.js": "/static/js/main.64e76aca.js",
     "static/media/loginBackgound.svg": "/static/media/loginBackgound.d5eaea54791ded30065b21d298706f7a.svg",
     "static/media/arrow.svg": "/static/media/arrow.53003e675f522becff134a1f3ab8c26b.svg",
     "static/media/Img.svg": "/static/media/Img.09362e68599725155c1bf0acbbdba4a8.svg",
     "static/media/imgBackground.svg": "/static/media/imgBackground.c00b40d39d5f1d10531782ee087039dc.svg",
     "static/media/ToongetherLogo.svg": "/static/media/ToongetherLogo.5f7d0680d8ce7ba1af34569843571667.svg",
     "index.html": "/index.html",
-    "main.df0b456a.js.map": "/static/js/main.df0b456a.js.map"
+    "main.64e76aca.js.map": "/static/js/main.64e76aca.js.map"
   },
   "entrypoints": [
-    "static/js/main.df0b456a.js"
+    "static/js/main.64e76aca.js"
   ]
 }
