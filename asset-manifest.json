@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.c7aa82d1.js",
+    "main.js": "/static/js/main.c366a567.js",
     "static/media/loginBackgound.svg": "/static/media/loginBackgound.d5eaea54791ded30065b21d298706f7a.svg",
     "static/media/arrow.svg": "/static/media/arrow.53003e675f522becff134a1f3ab8c26b.svg",
     "static/media/Img.svg": "/static/media/Img.09362e68599725155c1bf0acbbdba4a8.svg",
     "static/media/imgBackground.svg": "/static/media/imgBackground.c00b40d39d5f1d10531782ee087039dc.svg",
     "static/media/ToongetherLogo.svg": "/static/media/ToongetherLogo.5f7d0680d8ce7ba1af34569843571667.svg",
+    "static/media/Delete.svg": "/static/media/Delete.18b3599296f2ed6f0d0960be3813a7ed.svg",
+    "static/media/chevron.up1.svg": "/static/media/chevron.up1.7fff2a604740c5f28e8a9b7285758320.svg",
     "static/media/chevron.svg": "/static/media/chevron.aeec28e1bd7d2d9abf22a46e91942384.svg",
+    "static/media/chevron.up.svg": "/static/media/chevron.up.591ea09c9b3bf232d81cc634a279e79c.svg",
     "static/media/chevron.left 2.svg": "/static/media/chevron.left 2.49ed56a7170d0be7252ed3b11a3ab864.svg",
     "index.html": "/index.html",
-    "main.c7aa82d1.js.map": "/static/js/main.c7aa82d1.js.map"
+    "main.c366a567.js.map": "/static/js/main.c366a567.js.map"
   },
   "entrypoints": [
-    "static/js/main.c7aa82d1.js"
+    "static/js/main.c366a567.js"
   ]
 }
