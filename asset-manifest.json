@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c7ec5a3c.css",
-    "main.js": "/static/js/main.854baebe.js",
+    "main.js": "/static/js/main.f83a956e.js",
     "static/media/Pretendard-Bold.woff2": "/static/media/Pretendard-Bold.0676c8838a37a3b770d8.woff2",
     "static/media/Pretendard-SemiBold.woff2": "/static/media/Pretendard-SemiBold.7e5eaaf650b9e7389913.woff2",
     "static/media/Pretendard-Medium.woff2": "/static/media/Pretendard-Medium.ea235f1edb8815831a25.woff2",
@@ -12,7 +12,6 @@
     "static/media/Toongether_Logo.svg": "/static/media/Toongether_Logo.6e515401613416b77825c01e6df95138.svg",
     "static/media/calendar.svg": "/static/media/calendar.75799a8aecbb4850f4a969efb04c676b.svg",
     "static/media/logout.svg": "/static/media/logout.b2a184905ebf2ac8b44d9cd119f7984e.svg",
-    "static/media/Search.svg": "/static/media/Search.18fab5d6fb1c297e6ba8c56bde5fde5e.svg",
     "static/media/profile.svg": "/static/media/profile.369459dbe30ba9b4a803ca4a3a79faa4.svg",
     "static/media/Delete.svg": "/static/media/Delete.18b3599296f2ed6f0d0960be3813a7ed.svg",
     "static/media/post.svg": "/static/media/post.ffdccb45777cc0af0c83d6ba7a695d00.svg",
@@ -26,10 +25,10 @@
     "static/media/Line.svg": "/static/media/Line.5099c87dde78b1df3532bb1e99ae39e0.svg",
     "static/media/Polygon.svg": "/static/media/Polygon.3969fdb2b6ab458102004b7fc4b7daf2.svg",
     "main.c7ec5a3c.css.map": "/static/css/main.c7ec5a3c.css.map",
-    "main.854baebe.js.map": "/static/js/main.854baebe.js.map"
+    "main.f83a956e.js.map": "/static/js/main.f83a956e.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ec5a3c.css",
-    "static/js/main.854baebe.js"
+    "static/js/main.f83a956e.js"
   ]
 }
