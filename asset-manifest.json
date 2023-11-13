@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2c973b9f.css",
-    "main.js": "/static/js/main.374b0b6d.js",
+    "main.js": "/static/js/main.bd983352.js",
     "static/media/임시.svg": "/static/media/임시.7658c1562ea205de6d6189e2e2f31b1b.svg",
     "static/media/Tooni.svg": "/static/media/Tooni.7d33c422853e6b5fee9e76ed49909399.svg",
     "static/media/arrow.svg": "/static/media/arrow.53003e675f522becff134a1f3ab8c26b.svg",
@@ -25,10 +25,10 @@
     "static/media/Line.svg": "/static/media/Line.5099c87dde78b1df3532bb1e99ae39e0.svg",
     "static/media/Polygon.svg": "/static/media/Polygon.3969fdb2b6ab458102004b7fc4b7daf2.svg",
     "main.2c973b9f.css.map": "/static/css/main.2c973b9f.css.map",
-    "main.374b0b6d.js.map": "/static/js/main.374b0b6d.js.map"
+    "main.bd983352.js.map": "/static/js/main.bd983352.js.map"
   },
   "entrypoints": [
     "static/css/main.2c973b9f.css",
-    "static/js/main.374b0b6d.js"
+    "static/js/main.bd983352.js"
   ]
 }
