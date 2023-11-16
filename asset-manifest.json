@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9ce51600.css",
-    "main.js": "/static/js/main.216fad6a.js",
+    "main.js": "/static/js/main.f5eb3847.js",
     "static/media/Pretendard-Bold.woff2": "/static/media/Pretendard-Bold.0676c8838a37a3b770d8.woff2",
     "static/media/Pretendard-SemiBold.woff2": "/static/media/Pretendard-SemiBold.7e5eaaf650b9e7389913.woff2",
     "static/media/Pretendard-Medium.woff2": "/static/media/Pretendard-Medium.ea235f1edb8815831a25.woff2",
@@ -18,6 +18,7 @@
     "static/media/grap.svg": "/static/media/grap.ac5371d6fde9dc70cd2d1b6ca9d8fa87.svg",
     "static/media/Delete.svg": "/static/media/Delete.18b3599296f2ed6f0d0960be3813a7ed.svg",
     "static/media/register.svg": "/static/media/register.536e32ebcb2a24d8782cdf94cb5356a3.svg",
+    "static/media/back.svg": "/static/media/back.377da0f81945d83bc21977f15d62c28c.svg",
     "static/media/close.svg": "/static/media/close.7a55b13513843d93d8909d1eed1f679b.svg",
     "static/media/book.svg": "/static/media/book.7eeaa1595543766145d602cdb8de221e.svg",
     "static/media/message.svg": "/static/media/message.2e4d824ec6e619b24b78e66736b94df7.svg",
@@ -29,10 +30,10 @@
     "static/media/Line.svg": "/static/media/Line.5099c87dde78b1df3532bb1e99ae39e0.svg",
     "static/media/Polygon.svg": "/static/media/Polygon.3969fdb2b6ab458102004b7fc4b7daf2.svg",
     "main.9ce51600.css.map": "/static/css/main.9ce51600.css.map",
-    "main.216fad6a.js.map": "/static/js/main.216fad6a.js.map"
+    "main.f5eb3847.js.map": "/static/js/main.f5eb3847.js.map"
   },
   "entrypoints": [
     "static/css/main.9ce51600.css",
-    "static/js/main.216fad6a.js"
+    "static/js/main.f5eb3847.js"
   ]
 }
